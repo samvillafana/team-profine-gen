@@ -1,0 +1,23 @@
+{
+  "name": "team-profine-gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samvillafana/team-profine-gen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samvillafana/team-profine-gen/issues"
+  },
+  "homepage": "https://github.com/samvillafana/team-profine-gen#readme",
+  "dependencies": {
+    "inquirer": "^9.1.4"
+  }
+}
